@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/acmapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/Jace.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/JSON4J_Apache.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/pe.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/pe3pt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/stax-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/xlxpScanner.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Chatbot-master/Chatbot-master/xlxpScannerUtils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/poi-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
